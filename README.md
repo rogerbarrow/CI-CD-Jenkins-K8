@@ -10,6 +10,9 @@
 # Step 3 Open the application I will be using docker
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/e753a2e7-70b3-4029-b095-1194d8004fb6)
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/2b89bafb-38fd-4b0e-a213-6dfafac8dca9)
+# Step 3 Go to Local host 8010 to verify Applicatin is running
+ *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/cab6bb39-fdcf-4241-af38-5fc58b35dada)
+
 
 
 
