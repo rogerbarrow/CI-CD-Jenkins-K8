@@ -6,4 +6,6 @@
  * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/6e0ec649-634a-49ec-9927-931e17b23504)
 # Step 2 Clone your Source Code to your personal workstation
   * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/922f2eff-9bd4-4d9c-943e-b1a0b2d68d63)
+  * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/cceeadd5-c19f-4f2c-ae17-1622263f6d61)
+
 
