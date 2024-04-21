@@ -9,6 +9,8 @@
   * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/cceeadd5-c19f-4f2c-ae17-1622263f6d61)
 # Step 3 Open the application I will be using docker
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/e753a2e7-70b3-4029-b095-1194d8004fb6)
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/2b89bafb-38fd-4b0e-a213-6dfafac8dca9)
+
 
 
 
