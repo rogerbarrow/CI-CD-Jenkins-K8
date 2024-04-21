@@ -12,6 +12,9 @@
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/2b89bafb-38fd-4b0e-a213-6dfafac8dca9)
 # Step 3 Go to Local host 8010 to verify Applicatin is running
  *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/cab6bb39-fdcf-4241-af38-5fc58b35dada)
+# Step 4 is to SSH into you Instance and downloan Jenkins
+ * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/c57bdcd3-c8e1-4875-b31d-2bac98550797)
+
 
 
 
