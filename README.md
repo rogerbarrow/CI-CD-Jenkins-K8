@@ -7,5 +7,8 @@
 # Step 2 Clone your Source Code to your personal workstation
   * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/922f2eff-9bd4-4d9c-943e-b1a0b2d68d63)
   * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/cceeadd5-c19f-4f2c-ae17-1622263f6d61)
+# Step 3 Open the application I will be using docker
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/e753a2e7-70b3-4029-b095-1194d8004fb6)
+
 
 
