@@ -46,6 +46,9 @@
 # Step 13 Give acess to Jenkins For docker hub and Github
 *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/97670a53-01e9-44f6-91d2-d941aa6c32df)
 
+# Step 14 Run your Jenkin Pipeline  (after 30 fail attempts)
+ *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/468f8bc0-88af-4e63-8c8a-7ecf099cf2ea)
+
 
 
 
