@@ -30,6 +30,8 @@
  * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/c088f652-533d-4e1f-b4b2-93978fe0b9da)
 *  In the terminal lets Configure Sonar Server locally
 *  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/a4ac83a9-50b8-46ff-a42b-848a3168ea57)
+*  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/aa838bfb-bbd0-4834-8bb2-65eef06c64a6)
+
 
 
 
