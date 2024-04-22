@@ -22,6 +22,8 @@
  *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/2c1d2649-e296-4ad6-b0a5-3d891f18de24)
  * If you try to access Jenkins on Port 8080 you will be denied access we will need to update our inpound rules
  * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/8887aae5-2c05-4e7d-a121-ee0d13f874c0)
+# Step 7 We are now login to Jenkins
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/a4df2d7d-0179-4604-a73e-4461b46ca50d)
 
 
 
