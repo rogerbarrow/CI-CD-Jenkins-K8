@@ -35,6 +35,8 @@
 # Step 9 We need to have Jenkin Authenticate with SonarQube 
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/7c1f7df6-c12f-481b-815b-b3b999059758)
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/ee5573aa-41fb-4cb1-a45d-fe3fde6e6b11)
+# Step 10 install Docker on you instance 
+ *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/01b527de-6cde-46a6-968d-f28e7e731b22)
 
 
 
