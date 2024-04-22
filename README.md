@@ -42,6 +42,8 @@
 
 # Step 12 install ArgoCD
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/d4350b79-f9cc-4272-8d4e-583b08aced86)
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/489a679b-ac4a-4e5f-8791-94a9a998c6be)
+
 
 
 
