@@ -15,6 +15,9 @@
 # Step 4 is to SSH into you Instance and download Jenkins
  * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/c57bdcd3-c8e1-4875-b31d-2bac98550797)
  * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/271a65ed-159a-4ddf-9543-8dbb42474ef2)
+# Step 5 Download and install JDK and Jenkins
+ *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/0e68a94d-b83e-4b6a-9027-914f7fabfd05)
+
 
 
 
