@@ -24,6 +24,12 @@
  * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/8887aae5-2c05-4e7d-a121-ee0d13f874c0)
 # Step 7 We are now login to Jenkins
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/a4df2d7d-0179-4604-a73e-4461b46ca50d)
+* lets Install the required plugins
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/8d1786f5-0f85-4532-a551-b56295ad9ff7)
+# Step 8 Install SonarQube
+ * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/c088f652-533d-4e1f-b4b2-93978fe0b9da)
+*  In the terminal lets Configure Sonar Server locally
+*  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/a4ac83a9-50b8-46ff-a42b-848a3168ea57)
 
 
 
