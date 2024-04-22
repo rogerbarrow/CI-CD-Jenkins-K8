@@ -18,6 +18,8 @@
 # Step 5 Download and install JDK and Jenkins
  *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/0e68a94d-b83e-4b6a-9027-914f7fabfd05)
  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/c7faeb31-a46e-45a5-9446-218f1345066c)
+# Step 6 Download and install Jenkins
+ *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/2c1d2649-e296-4ad6-b0a5-3d891f18de24)
 
 
 
