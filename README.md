@@ -32,18 +32,18 @@
 *  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/a4ac83a9-50b8-46ff-a42b-848a3168ea57)
 *  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/aa838bfb-bbd0-4834-8bb2-65eef06c64a6)
 *  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/c8db7149-f422-430c-8217-358d49d0255d)
-# Step 9 We need to have Jenkin Authenticate with SonarQube 
+# Step 9 We need to have Jenkins Authenticate with SonarQube 
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/7c1f7df6-c12f-481b-815b-b3b999059758)
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/ee5573aa-41fb-4cb1-a45d-fe3fde6e6b11)
 # Step 10 install Docker on you instance 
  *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/01b527de-6cde-46a6-968d-f28e7e731b22)
-# Step 11 Istall Kubernetes Cluster and argoCD
+# Step 11 Install Kubernetes Cluster and argoCD
  * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/6e1c4b9a-7d11-4935-9ab4-a4d1ec07b95c)
 
-# Step 12 install ArgoCD
+# Step 12 Install ArgoCD
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/d4350b79-f9cc-4272-8d4e-583b08aced86)
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/489a679b-ac4a-4e5f-8791-94a9a998c6be)
-# Step 13 Give acess to Jenkins For docker hub and Github
+# Step 13 Give access to Jenkins For docker hub and Github
 *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/97670a53-01e9-44f6-91d2-d941aa6c32df)
 
 # Step 14 Run your Jenkin Pipeline  (after 30 fail attempts)
