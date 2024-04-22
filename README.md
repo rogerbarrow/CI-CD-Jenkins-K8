@@ -48,6 +48,7 @@
 
 # Step 14 Run your Jenkin Pipeline  (after 30 fail attempts)
  *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/468f8bc0-88af-4e63-8c8a-7ecf099cf2ea)
+ * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/41718e88-1ddc-4782-bdd8-a6e2c1262700)
 
 
 
