@@ -32,6 +32,10 @@
 *  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/a4ac83a9-50b8-46ff-a42b-848a3168ea57)
 *  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/aa838bfb-bbd0-4834-8bb2-65eef06c64a6)
 *  ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/c8db7149-f422-430c-8217-358d49d0255d)
+# Step 9 We need to have Jenkin Authenticate with SonarQube 
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/7c1f7df6-c12f-481b-815b-b3b999059758)
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/ee5573aa-41fb-4cb1-a45d-fe3fde6e6b11)
+
 
 
 
