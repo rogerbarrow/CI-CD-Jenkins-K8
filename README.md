@@ -53,6 +53,10 @@
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/ac533095-1882-4c37-9835-a5cac760af2c)
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/bb6c6d3f-9e08-42d9-b09d-f4cdbd2f885c)
 
+# Step 15 We will run the ArgoCD Operator
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/050b3c6d-2e65-44ec-b99d-1a04ec2b45e3)
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/47d181ae-f529-4ef3-ada4-b8ff7bea1a0b)
+
 
 
 
