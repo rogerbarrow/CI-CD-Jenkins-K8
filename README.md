@@ -40,6 +40,8 @@
 # Step 11 Istall Kubernetes Cluster and argoCD
  * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/6e1c4b9a-7d11-4935-9ab4-a4d1ec07b95c)
 
+# Step 12 install ArgoCD
+* ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/d4350b79-f9cc-4272-8d4e-583b08aced86)
 
 
 
