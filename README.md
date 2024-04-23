@@ -57,6 +57,7 @@
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/050b3c6d-2e65-44ec-b99d-1a04ec2b45e3)
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/47d181ae-f529-4ef3-ada4-b8ff7bea1a0b)
 * ![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/00bc669b-e10c-40f8-99fd-76603c18940a)
+ *![image](https://github.com/rogerbarrow/CI-CD-Jenkins-K8/assets/46138186/0187829c-19fd-4255-bcd3-01d4bd46f144)
 
 
 
